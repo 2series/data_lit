@@ -12,7 +12,7 @@ Data Lit is is a 3 month course designed to help absolute beginners become profi
 * 12 Weeks
 * 10-15 hours per week
 ### Certification
-* Students who successfully complete the course will receive their own certificate signed by Siraj Raval.
+![](images/certificate.png)
 ### Tools Used
 * Python, SQL, Tensorflow, Hadoop, MapReduce, Spark, GitHub
 ### Prerequisites 
